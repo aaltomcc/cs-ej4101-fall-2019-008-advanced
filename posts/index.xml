@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on cs-ej4101-fall-2019-008-advanced</title>
@@ -18,7 +18,7 @@
       
       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-008-advanced/posts/learning/</guid>
       <description>Learning 008 I learned following thing in the course:
- Basics about DevOps GitHub Pages Hugo for creating simple pages Utilizing Travis CI for deployment  Git was familiar for me before this course, but utilizing GitHubs features was new to me. Before, I have used git only as command line tool for branches, push, commiting, merging etc. But I haven&amp;rsquo;t really thought about other features like GitHub Pages or third-party CI/CD tools like Travis CI.</description>
+ Basics about DevOps GitHub Pages Hugo for creating simple pages Utilizing Travis CI for deployment  Git was familiar for me before this course, but utilizing GitHubs features was new to me. Before, I have used git only as command line tool for branches, push, commiting, merging etc. But I haven&#39;t really thought about other features like GitHub Pages or third-party CI/CD tools like Travis CI.</description>
     </item>
     
     <item>
