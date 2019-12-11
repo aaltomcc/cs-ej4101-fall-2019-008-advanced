@@ -5,12 +5,12 @@ install:
 
 script:
   - hugo
-  - hugo server -D
 
 deploy:
   - provider: pages
     skip_cleanup: true
     github_token: $GITHUB_TOKEN
     keep_history: true
+    local_dir: public
     on:
       branch: master
