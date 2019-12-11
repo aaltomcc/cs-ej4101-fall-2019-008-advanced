@@ -17,7 +17,8 @@
       <pubDate>Wed, 11 Dec 2019 18:28:57 +0200</pubDate>
       
       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-008-advanced/posts/learning/</guid>
-      <description> learned 008 </description>
+      <description>Learning 008 I learned following thing in the course:
+ Basics about DevOps GitHub Pages Hugo for creating simple pages Utilizing Travis CI for deployment  Git was familiar for me before this course, but utilizing GitHubs features was new to me. Before, I have used git only as command line tool for branches, push, commiting, merging etc. But I haven&amp;rsquo;t really thought about other features like GitHub Pages or third-party CI/CD tools like Travis CI.</description>
     </item>
     
     <item>
@@ -26,7 +27,8 @@
       <pubDate>Wed, 11 Dec 2019 18:23:18 +0200</pubDate>
       
       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-008-advanced/posts/course/</guid>
-      <description>this course 008 I took this course as I was interested in learning basics of DevOps.</description>
+      <description>This course 008 I took this course as I was interested in learning basics of DevOps. As this course was only 1 credit, I thought it would be easy to find space and time for completing this course.
+Before this course, I’ve heard the buzzword DevOps many times, but I didn’t really know what to expect from it. When I saw this course I thought, why not to enhance my knowledge about this subject too.</description>
     </item>
     
   </channel>
